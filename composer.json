@@ -1,0 +1,14 @@
+{
+    "name": "helloweba/imagecrop",
+    "description": "a php script for upload image and crop it.",
+    "authors": [
+        {
+            "name": "liurenfei",
+            "email": "13966913@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Image\\": "src/Image" }
+    }
+}
